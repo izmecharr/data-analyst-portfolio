@@ -1,17 +1,10 @@
-# Data Analyst Portfolio of Charlize C. Amorato
+# Data Analyst Showcase Portfolio of Charlize C. Amorato
 **Computer Science Graduate | Data Analysis & Machine Learning Specialist**
 
-Welcome to my data analytics portfolio! I'm a Computer Science graduate from TIP-QC with proven expertise in machine learning, data analysis, and business intelligence. I specialize in transforming complex datasets into actionable insights through advanced statistical methods, NLP, and computer vision applications.
+Welcome to my data analytics portfolio! I'm a Computer Science graduate with experience in machine learning, data analysis, and business intelligence. I specialize in transforming complex datasets into actionable insights through advanced statistical methods, NLP, and computer vision applications.
 
 ## 👋 About Me
 
-DOST Merit Scholar and consistent Dean's Lister with hands-on experience in data analysis, machine learning model development, and business process automation. I have successfully delivered data-driven solutions across various industries including food service, automotive, and manufacturing sectors.
-
-- 📍 **Location:** San Isidro, Rodriguez, Rizal, Philippines
-- 📧 **Email:** charlizeamorato.works@gmail.com
-- 💼 **GitHub:** [github.com/izmecharr](http://github.com/izmecharr)
-- 📱 **Phone:** +639763019316
-- 🎓 **Education:** BS Computer Science, Technological Institute of the Philippines (2025)
 
 ## 🛠️ Skillset
 
@@ -45,20 +38,18 @@ DOST Merit Scholar and consistent Dean's Lister with hands-on experience in data
 - **Research Methodology** - Academic research, thesis development
 - **Data Mining** - Pattern recognition and feature extraction
 
-## 📊 Current Projects
+## 📊 Projects
 
-### 1. YOLOv8 & CNN Enhancement for Toddler Monitoring (Final Thesis)
-**Technologies:** YOLOv8, PyTorch, OpenCV, PyQt5, Roboflow  
+### 1. Toddler Monitoring System using PyQt5 and YOLOv8 (Final Thesis)
+**Technologies:** YOLOv8, PyTorch, OpenCV, PyQt5, Roboflow, Github  
 **Duration:** 2024-2025  
-**Status:** In Progress
 
-Developing an AI-powered computer vision system for automated toddler safety monitoring using state-of-the-art object detection.
+Developed a computer vision system for toddler safety monitoring using YOLOV8 object detection with customized dataset.
 
 **Key Achievements:**
-- Built custom dataset with 5,000+ annotated images for toddler/adult/object detection
-- Achieved 92% accuracy in real-time object detection and classification
+- Built custom dataset with 1,000,000+ annotated images for toddler/adult/object detection
 - Integrated real-time video processing with user-friendly PyQt5 interface
-- Implemented data augmentation techniques improving model robustness by 15%
+- Implemented data augmentation techniques improving model robustness
 
 **[View Project →](https://github.com/izmecharr/thesis-toddler-monitoring-system)**
 
@@ -68,7 +59,7 @@ Developing an AI-powered computer vision system for automated toddler safety mon
 **Technologies:** Python, NLP, Machine Learning, Text Analysis  
 **Duration:** 2024
 
-Built an intelligent music recommendation engine that analyzes song lyrics to suggest similar tracks based on semantic content and emotional tone.
+Built a music recommendation engine that analyzes song lyrics to suggest similar tracks based on semantic content and emotional tone.
 
 **Key Achievements:**
 - Processed 50,000+ song lyrics using advanced NLP techniques
@@ -92,97 +83,19 @@ Comprehensive library management system enhanced with AI-powered book review ana
 - Automated library operations reducing manual processing time by 60%
 - Developed predictive analytics for book popularity and demand forecasting
 
-**[View Project →](https://github.com/izmecharr/smart-library-management)**
-
-## 🚀 Suggested High-Impact Projects
-
-### 4. E-commerce Sales Analytics & Customer Segmentation Dashboard
-**Technologies:** Python, Pandas, Scikit-learn, Tableau, SQL  
-**Recommended Duration:** 3-4 weeks
-
-**Project Description:**
-Build a comprehensive analytics platform analyzing e-commerce transaction data to identify customer segments, predict purchasing behavior, and optimize marketing strategies.
-
-**Potential Impact:**
-- Customer lifetime value prediction model
-- RFM analysis for customer segmentation
-- Sales forecasting with seasonal trend analysis
-- Interactive dashboard for business stakeholders
-- A/B testing framework for marketing campaigns
-
-**Business Value:** Demonstrate ability to drive revenue growth through data-driven customer insights.
+**[View Project →](https://github.com/izmecharr/library-management-system)**
 
 ---
 
-### 5. Social Media Engagement Analytics for Brand Performance
-**Technologies:** Python, Twitter/Instagram APIs, NLP, Time Series Analysis  
-**Recommended Duration:** 2-3 weeks
+### 4. Library Management System with NLTK Sentiment Analysis
+**Technologies:**  
+**Duration:** 
 
-**Project Description:**
-Leverage your social media management experience to build an analytics platform that tracks brand performance, sentiment analysis, and engagement optimization.
 
-**Potential Impact:**
-- Real-time social media sentiment monitoring
-- Competitor analysis and benchmarking
-- Optimal posting time prediction using engagement data
-- Influencer identification and impact measurement
-- Crisis detection through sentiment anomaly detection
+**Key Achievements:**
+- 
 
-**Business Value:** Showcase expertise in social media analytics, directly relevant to your content management experience.
-
----
-
-### 6. Supply Chain & Production Analytics System
-**Technologies:** Python, Time Series Forecasting, Optimization Algorithms  
-**Recommended Duration:** 4-5 weeks
-
-**Project Description:**
-Build on your production management system experience to create advanced analytics for supply chain optimization and demand forecasting.
-
-**Potential Impact:**
-- Inventory optimization using demand forecasting models
-- Production efficiency analysis and bottleneck identification
-- Cost reduction analysis through process optimization
-- Predictive maintenance scheduling for equipment
-- Quality control analytics and defect prediction
-
-**Business Value:** Demonstrates practical business application of analytics in manufacturing/operations.
-
----
-
-### 7. Financial Risk Assessment & Portfolio Analytics
-**Technologies:** Python, Monte Carlo Simulation, Statistical Modeling  
-**Recommended Duration:** 3-4 weeks
-
-**Project Description:**
-Develop a comprehensive financial analytics platform for investment risk assessment and portfolio optimization.
-
-**Potential Impact:**
-- Stock price prediction using machine learning models
-- Portfolio risk analysis with Monte Carlo simulations
-- Market sentiment analysis from financial news
-- Automated trading strategy backtesting
-- Real-time market anomaly detection
-
-**Business Value:** Shows quantitative finance skills highly valued in fintech and banking sectors.
-
----
-
-### 8. Healthcare Data Analytics & Predictive Modeling
-**Technologies:** Python, Statistical Analysis, Medical Data Processing  
-**Recommended Duration:** 4-5 weeks
-
-**Project Description:**
-Analyze healthcare datasets to predict patient outcomes, optimize resource allocation, and identify treatment effectiveness patterns.
-
-**Potential Impact:**
-- Patient readmission prediction model
-- Treatment outcome analysis and optimization
-- Healthcare cost prediction and budgeting
-- Disease outbreak pattern analysis
-- Hospital resource utilization optimization
-
-**Business Value:** Demonstrates capability in high-stakes healthcare analytics with social impact.
+**[View Project →](https://github.com/izmecharr/)**
 
 ## 🏆 Achievements & Recognition
 
@@ -226,15 +139,13 @@ I'm seeking opportunities to apply my technical expertise in data analysis, mach
 
 I'm always excited to discuss data analytics opportunities, collaborate on innovative projects, or share insights about machine learning applications.
 
-- **Email:** charlizeamorato.works@gmail.com
-- **GitHub:** [github.com/izmecharr](http://github.com/izmecharr)
-- **Phone:** +639763019316
+- 📍 **Location:** San Isidro, Rodriguez, Rizal, Philippines
+- 📧 **Email:** charlizeamorato.works@gmail.com
+- 💼 **GitHub:** [github.com/izmecharr](http://github.com/izmecharr)
+- 📱 **Phone:** +639763019316
+- 🎓 **Education:** BS Computer Science, Technological Institute of the Philippines (2025)
 
 ---
-
-*"The goal is to turn data into information, and information into insight."* - Carly Fiorina
-
-⭐ **Star this repository if you found it helpful!**
 
 ## 📋 Quick Links
 
